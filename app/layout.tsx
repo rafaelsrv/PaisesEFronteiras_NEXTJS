@@ -20,7 +20,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={nunito_Sans.className}>
         
-        <main className="bg-gray-100 min-h-screen flex flex-col items-center">
+        <main className="bg-gray-100  min-h-screen flex flex-col items-center">
           <nav className="w-full bg-white h-16 flex justify-center items-center">
             <section className="container flex items-center gap-3">
               <Image width={48} height={48} src ="/logo.svg"
